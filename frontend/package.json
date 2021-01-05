@@ -10,7 +10,7 @@
     "clean": "rm -rf node_modules target"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "jquery": "^3.4.1",
     "vue": "^2.6.10",
     "vue-cookie": "^1.1.4",
